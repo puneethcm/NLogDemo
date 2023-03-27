@@ -1,0 +1,5 @@
+﻿2023-03-27 18:30:39.4170 DEBUG Debugging with sum operation successfull
+2023-03-27 18:30:39.4538 INFO Sum Result: 9
+2023-03-27 18:31:21.9506 WARN Please privide +ve value
+2023-03-27 18:31:21.9710 ERROR Number should not be below zero
+2023-03-27 18:31:21.9710 DEBUG Debug failed
